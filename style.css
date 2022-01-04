@@ -41,3 +41,10 @@ section p{
     background-repeat: no-repeat;
     
 }
+
+.Dream-Big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: 16%;
+}
