@@ -19,8 +19,9 @@ section{
 }
 section p{
     word-spacing: 3px;
-    line-height: 25px;
-    font-size: 17px;
+    line-height: 30px;
+    font-size: 21px;
+    color: gray;
     
 }
 .half-width img{
@@ -59,8 +60,25 @@ section p{
     border-radius: 10px;
     line-height: 20px;
     padding: 80px;
+    border-left: 9px solid;
+    border-image:linear-gradient(#ff916dd8,#ff694e);
+    border-image-slice: 1;
 
 }
 .exp{
     padding-left: 5%;
+}
+#shopu{
+    border-left: 9px solid;
+    border-image:linear-gradient(#000DFF,#00F0FF);
+    border-image-slice: 1;
+}
+.sobkisuamar{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+footer p{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(97, 96, 96);
 }
