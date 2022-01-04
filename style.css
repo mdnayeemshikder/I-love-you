@@ -48,3 +48,19 @@ section p{
     background-position: right;
     background-position-y: 16%;
 }
+.color{
+    color: #FFA539;
+}
+.Experiences2nd{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow:5px 22px 40px grey;
+    border-radius: 10px;
+    line-height: 20px;
+    padding: 80px;
+
+}
+.exp{
+    padding-left: 5%;
+}
