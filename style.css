@@ -1,0 +1,43 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+
+}
+h1{
+    font-size: 50px;
+}
+.love{
+    color: #FFA500;
+    font-size: 45PX;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 35%;
+    padding-left: 9%;
+}
+section p{
+    word-spacing: 3px;
+    line-height: 25px;
+    font-size: 17px;
+    
+}
+.half-width img{
+    width: 110%;
+}
+.my-link{
+    text-decoration:none;
+    background: linear-gradient(#ff916dd8,#ff694e);
+    padding: 11px 41px;
+    color: aliceblue;
+    font-weight: bold;
+    border-radius: 5px;
+    
+        
+}
+.top-bennar{
+    background-image: url(images/top-benner.png);
+    background-repeat: no-repeat;
+    
+}
